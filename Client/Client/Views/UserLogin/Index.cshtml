@@ -1,0 +1,8 @@
+﻿@model  Client.Models.UserInfo
+
+@using (Html.BeginForm("Login", "UserLogin", FormMethod.Post))
+{
+    @Html.TextBoxFor(model => model.UserMail)
+    @Html.ValidationMessageFor(model => model.UserMail)
+    <button type="submit">Login</button>
+}

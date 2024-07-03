@@ -1,0 +1,11 @@
+﻿@using Server
+@model Server.ConnectionManager
+<div class="col-2"<h2>User List</h2></div>
+
+@foreach (var user in ConnectionManager._userConnections)
+{
+    <li>@user</li>
+
+}
+
+

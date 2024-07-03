@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guler\\source\\repos\\Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F44DCEC8-EC1B-4754-9888-5ED69C3E0A89}|Server\\Server.csproj|c:\\users\\guler\\source\\repos\\client\\server\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F44DCEC8-EC1B-4754-9888-5ED69C3E0A89}|Server\\Server.csproj|solutionrelative:server\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44DCEC8-EC1B-4754-9888-5ED69C3E0A89}|Server\\Server.csproj|c:\\users\\guler\\source\\repos\\client\\server\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44DCEC8-EC1B-4754-9888-5ED69C3E0A89}|Server\\Server.csproj|solutionrelative:server\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44DCEC8-EC1B-4754-9888-5ED69C3E0A89}|Server\\Server.csproj|C:\\Users\\guler\\source\\repos\\Client\\server\\connectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44DCEC8-EC1B-4754-9888-5ED69C3E0A89}|Server\\Server.csproj|solutionrelative:server\\connectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44DCEC8-EC1B-4754-9888-5ED69C3E0A89}|Server\\Server.csproj|C:\\Users\\guler\\source\\repos\\Client\\server\\databaselistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44DCEC8-EC1B-4754-9888-5ED69C3E0A89}|Server\\Server.csproj|solutionrelative:server\\databaselistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44DCEC8-EC1B-4754-9888-5ED69C3E0A89}|Server\\Server.csproj|c:\\users\\guler\\source\\repos\\client\\server\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44DCEC8-EC1B-4754-9888-5ED69C3E0A89}|Server\\Server.csproj|solutionrelative:server\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44DCEC8-EC1B-4754-9888-5ED69C3E0A89}|Server\\Server.csproj|C:\\Users\\guler\\source\\repos\\Client\\server\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44DCEC8-EC1B-4754-9888-5ED69C3E0A89}|Server\\Server.csproj|solutionrelative:server\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699BC653-99B8-4674-B8E9-1D711AB937BD}|Client\\Client.csproj|C:\\Users\\guler\\source\\repos\\Client\\client\\client.startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699BC653-99B8-4674-B8E9-1D711AB937BD}|Client\\Client.csproj|solutionrelative:client\\client.startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699BC653-99B8-4674-B8E9-1D711AB937BD}|Client\\Client.csproj|c:\\users\\guler\\source\\repos\\client\\client\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{699BC653-99B8-4674-B8E9-1D711AB937BD}|Client\\Client.csproj|solutionrelative:client\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699BC653-99B8-4674-B8E9-1D711AB937BD}|Client\\Client.csproj|c:\\users\\guler\\source\\repos\\client\\client\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{699BC653-99B8-4674-B8E9-1D711AB937BD}|Client\\Client.csproj|solutionrelative:client\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699BC653-99B8-4674-B8E9-1D711AB937BD}|Client\\Client.csproj|C:\\Users\\guler\\source\\repos\\Client\\client\\views\\userlogin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{699BC653-99B8-4674-B8E9-1D711AB937BD}|Client\\Client.csproj|solutionrelative:client\\views\\userlogin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699BC653-99B8-4674-B8E9-1D711AB937BD}|Client\\Client.csproj|c:\\users\\guler\\source\\repos\\client\\client\\views\\shared\\_messageslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{699BC653-99B8-4674-B8E9-1D711AB937BD}|Client\\Client.csproj|solutionrelative:client\\views\\shared\\_messageslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699BC653-99B8-4674-B8E9-1D711AB937BD}|Client\\Client.csproj|c:\\users\\guler\\source\\repos\\client\\client\\views\\home\\showconnectedusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{699BC653-99B8-4674-B8E9-1D711AB937BD}|Client\\Client.csproj|solutionrelative:client\\views\\home\\showconnectedusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699BC653-99B8-4674-B8E9-1D711AB937BD}|Client\\Client.csproj|c:\\users\\guler\\source\\repos\\client\\client\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{699BC653-99B8-4674-B8E9-1D711AB937BD}|Client\\Client.csproj|solutionrelative:client\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699BC653-99B8-4674-B8E9-1D711AB937BD}|Client\\Client.csproj|c:\\users\\guler\\source\\repos\\client\\client\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{699BC653-99B8-4674-B8E9-1D711AB937BD}|Client\\Client.csproj|solutionrelative:client\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699BC653-99B8-4674-B8E9-1D711AB937BD}|Client\\Client.csproj|c:\\users\\guler\\source\\repos\\client\\client\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{699BC653-99B8-4674-B8E9-1D711AB937BD}|Client\\Client.csproj|solutionrelative:client\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699BC653-99B8-4674-B8E9-1D711AB937BD}|Client\\Client.csproj|C:\\Users\\guler\\source\\repos\\Client\\client\\controllers\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699BC653-99B8-4674-B8E9-1D711AB937BD}|Client\\Client.csproj|solutionrelative:client\\controllers\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699BC653-99B8-4674-B8E9-1D711AB937BD}|Client\\Client.csproj|C:\\Users\\guler\\source\\repos\\Client\\client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699BC653-99B8-4674-B8E9-1D711AB937BD}|Client\\Client.csproj|solutionrelative:client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699BC653-99B8-4674-B8E9-1D711AB937BD}|Client\\Client.csproj|C:\\Users\\guler\\source\\repos\\Client\\client\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{699BC653-99B8-4674-B8E9-1D711AB937BD}|Client\\Client.csproj|solutionrelative:client\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44DCEC8-EC1B-4754-9888-5ED69C3E0A89}|Server\\Server.csproj|C:\\Users\\guler\\source\\repos\\Client\\server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44DCEC8-EC1B-4754-9888-5ED69C3E0A89}|Server\\Server.csproj|solutionrelative:server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44DCEC8-EC1B-4754-9888-5ED69C3E0A89}|Server\\Server.csproj|C:\\Users\\guler\\source\\repos\\Client\\server\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F44DCEC8-EC1B-4754-9888-5ED69C3E0A89}|Server\\Server.csproj|solutionrelative:server\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44DCEC8-EC1B-4754-9888-5ED69C3E0A89}|Server\\Server.csproj|C:\\Users\\guler\\source\\repos\\Client\\server\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44DCEC8-EC1B-4754-9888-5ED69C3E0A89}|Server\\Server.csproj|solutionrelative:server\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\guler\\source\\repos\\Client\\Server\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Server\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\guler\\source\\repos\\Client\\Server\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Server\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T04:08:09.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\guler\\source\\repos\\Client\\Server\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\guler\\source\\repos\\Client\\Server\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Server\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:08:03.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\guler\\source\\repos\\Client\\Server\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\guler\\source\\repos\\Client\\Server\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Server\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:07:22.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\guler\\source\\repos\\Client\\Client\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Client\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\guler\\source\\repos\\Client\\Client\\Views\\Web.config",
+              "RelativeToolTip": "Client\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-25T04:07:07.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\guler\\source\\repos\\Client\\Client\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\guler\\source\\repos\\Client\\Client\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Client\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T04:07:04.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_MessagesList.cshtml",
+              "DocumentMoniker": "C:\\Users\\guler\\source\\repos\\Client\\Client\\Views\\Shared\\_MessagesList.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Shared\\_MessagesList.cshtml",
+              "ToolTip": "C:\\Users\\guler\\source\\repos\\Client\\Client\\Views\\Shared\\_MessagesList.cshtml",
+              "RelativeToolTip": "Client\\Views\\Shared\\_MessagesList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T04:06:51.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShowConnectedUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\guler\\source\\repos\\Client\\Client\\Views\\Home\\ShowConnectedUsers.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Home\\ShowConnectedUsers.cshtml",
+              "ToolTip": "C:\\Users\\guler\\source\\repos\\Client\\Client\\Views\\Home\\ShowConnectedUsers.cshtml",
+              "RelativeToolTip": "Client\\Views\\Home\\ShowConnectedUsers.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T04:06:38.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\guler\\source\\repos\\Client\\Client\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\guler\\source\\repos\\Client\\Client\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Client\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T04:06:26.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\guler\\source\\repos\\Client\\Client\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\guler\\source\\repos\\Client\\Client\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Client\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T04:06:24.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.Startup.cs",
+              "DocumentMoniker": "C:\\Users\\guler\\source\\repos\\Client\\Client\\Client.Startup.cs",
+              "RelativeDocumentMoniker": "Client\\Client.Startup.cs",
+              "ToolTip": "C:\\Users\\guler\\source\\repos\\Client\\Client\\Client.Startup.cs",
+              "RelativeToolTip": "Client\\Client.Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:05:56.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\guler\\source\\repos\\Client\\Client\\Web.config",
+              "RelativeDocumentMoniker": "Client\\Web.config",
+              "ToolTip": "C:\\Users\\guler\\source\\repos\\Client\\Client\\Web.config",
+              "RelativeToolTip": "Client\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-14T07:05:09.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\guler\\source\\repos\\Client\\Client\\Views\\UserLogin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\UserLogin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\guler\\source\\repos\\Client\\Client\\Views\\UserLogin\\Index.cshtml",
+              "RelativeToolTip": "Client\\Views\\UserLogin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T06:48:33.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConnectionManager.cs",
+              "DocumentMoniker": "C:\\Users\\guler\\source\\repos\\Client\\Server\\ConnectionManager.cs",
+              "RelativeDocumentMoniker": "Server\\ConnectionManager.cs",
+              "ToolTip": "C:\\Users\\guler\\source\\repos\\Client\\Server\\ConnectionManager.cs",
+              "RelativeToolTip": "Server\\ConnectionManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:26:10.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\guler\\source\\repos\\Client\\Server\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Server\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\guler\\source\\repos\\Client\\Server\\Global.asax.cs",
+              "RelativeToolTip": "Server\\Global.asax.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:50:02.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\guler\\source\\repos\\Client\\Server\\Startup.cs",
+              "RelativeDocumentMoniker": "Server\\Startup.cs",
+              "ToolTip": "C:\\Users\\guler\\source\\repos\\Client\\Server\\Startup.cs",
+              "RelativeToolTip": "Server\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:29:39.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserLoginController.cs",
+              "DocumentMoniker": "C:\\Users\\guler\\source\\repos\\Client\\Client\\Controllers\\UserLoginController.cs",
+              "RelativeDocumentMoniker": "Client\\Controllers\\UserLoginController.cs",
+              "ToolTip": "C:\\Users\\guler\\source\\repos\\Client\\Client\\Controllers\\UserLoginController.cs",
+              "RelativeToolTip": "Client\\Controllers\\UserLoginController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:17:00.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\guler\\source\\repos\\Client\\Server\\Web.config",
+              "RelativeDocumentMoniker": "Server\\Web.config",
+              "ToolTip": "C:\\Users\\guler\\source\\repos\\Client\\Server\\Web.config",
+              "RelativeToolTip": "Server\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-23T19:59:06.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\guler\\source\\repos\\Client\\Client\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\guler\\source\\repos\\Client\\Client\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Client\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T07:49:09.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseListener.cs",
+              "DocumentMoniker": "C:\\Users\\guler\\source\\repos\\Client\\Server\\DatabaseListener.cs",
+              "RelativeDocumentMoniker": "Server\\DatabaseListener.cs",
+              "ToolTip": "C:\\Users\\guler\\source\\repos\\Client\\Server\\DatabaseListener.cs",
+              "RelativeToolTip": "Server\\DatabaseListener.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwBYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T22:11:44.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\guler\\source\\repos\\Client\\Client\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Client\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\guler\\source\\repos\\Client\\Client\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Client\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAwDkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:01:53.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "C:\\Users\\guler\\source\\repos\\Client\\Server\\Hubs\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "Server\\Hubs\\NotificationHub.cs",
+              "ToolTip": "C:\\Users\\guler\\source\\repos\\Client\\Server\\Hubs\\NotificationHub.cs",
+              "RelativeToolTip": "Server\\Hubs\\NotificationHub.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:51:56.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

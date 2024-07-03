@@ -1,0 +1,23 @@
+﻿@{
+    @model IEnumerable<Client.Models.Messages>
+    }
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Message)
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Message)
+                </td>
+            </tr>
+        }
+
+    </table>

@@ -1,0 +1,57 @@
+﻿@using Client.Models;
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <div id="messagesTable"></div>
+    </div>
+</div>
+@section Scripts{ 
+    <script src="~/Scripts/jquery.signalR-2.4.3.min.js"></script>
+    <script src="~/signalr/hubs" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(function () {
+            var notifications = $.connection.notificationHub;
+            var connectionId;
+            notifications.client.updateMessages = function (e) {
+                console.log(e);
+                getAllMessages();
+            };
+            $.connection.hub.start().done(function (e) {
+                AddId(e.id);
+                alert("signalR connection started");
+                getAllMessages();   
+            }).fail(function (e) {
+                alert(e);
+            });
+        });
+        function AddId(id) {
+            connectionId = id;
+            $.ajax({
+                url: '/home/AddConnectionId?id=' + id,
+                contentType: 'application/json; charset:utf-8',
+                type: 'POST',
+                dataType: 'json'
+            }).done(function (result) {
+                alert("table dependency connection started")
+            }).fail(function () {
+                alert("Error fetching messages.");
+            });
+        }
+        function getAllMessages() {
+            var tbl = $('#messagesTable');
+            $.ajax({
+                url: '/home/GetMessages',
+                contentType: 'application/html; charset:utf-8',
+                type: 'GET',
+                dataType: 'html'
+            }).done(function (result) {
+                tbl.empty().append(result);
+            }).fail(function () {
+                alert("Error fetching messages.");
+            });
+        }
+    </script>
+}
